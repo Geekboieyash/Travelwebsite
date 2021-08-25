@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "hol_pkg.xsl"?>
+<holiday>
+
+<package_dom>
+<srno>1</srno>
+<name>Kashmir</name>
+<places>Shikara Lake, Gondola, Cable Car</places>
+<duration>6 Nights, 7 Days</duration>
+<price>₹27,000 per person</price>
+</package_dom>
+
+<package_dom>
+<srno>2</srno>
+<name>Kerala</name>
+<places>Backwaters, Hawa Beach, Light House</places>
+<duration>4 Nights, 5 Days</duration>
+<price>₹21,000 per person</price>
+</package_dom>
+
+<package_dom>
+<srno>3</srno>
+<name>Andaman</name>
+<places>Port Blair, Havelock, Niel Island</places>
+<duration>5 Nights, 6 Days</duration>
+<price>₹34,150 per person</price>
+</package_dom>
+
+<package_dom>
+<srno>4</srno>
+<name>Rajasthan</name>
+<places>Jaipur, Jaisalmer, Jodhpur</places>
+<duration>5 Nights, 6 Days</duration>
+<price>₹17,470 per person</price>
+</package_dom>
+
+<package_int>
+<srno>1</srno>
+<name>United States</name>
+<places>Florida, Miami, New York</places>
+<duration>5 Nights, 6 Days</duration>
+<price>₹1,56,798 per person</price>
+</package_int>
+
+<package_int>
+<srno>2</srno>
+<name>Greece</name>
+<places>Athens, Mykonos, Santorini</places>
+<duration>7 Nights, 8 Days</duration>
+<price>₹1,54,496 per person</price>
+</package_int>
+
+<package_int>
+<srno>3</srno>
+<name>Best of Europe</name>
+<places>London, Paris, Amsterdam</places>
+<duration>5 Nights, 6 Days</duration>
+<price>₹2,34,551 per person</price>
+</package_int>
+
+<package_int>
+<srno>4</srno>
+<name>Australia</name>
+<places>Canberra, Sydney, Melbourne</places>
+<duration>6 Nights, 7 Days</duration>
+<price>₹1,23,657 per person</price>
+</package_int>
+
+</holiday> 
